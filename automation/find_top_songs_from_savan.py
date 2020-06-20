@@ -10,4 +10,4 @@ for count,item in enumerate(playlists,1):
 	print(count,item.find_element_by_tag_name("h3").text)
 	print("	",item.find_element_by_tag_name('span').text)
 	print("	",item.find_element_by_tag_name('cite').text,"\n")
-© 2020 GitHub, Inc.
+
