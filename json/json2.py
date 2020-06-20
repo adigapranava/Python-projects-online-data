@@ -1,6 +1,6 @@
 import json
 
-data = '''
+data = ''' 	#list of dictionaries
 [
 {
 	"id" : "001",
